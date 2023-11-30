@@ -1,16 +1,24 @@
 ### Hi there 👋
+# I'm Hadia Fatima! 👋
 
-<!--
-**hadiafatima/hadiafatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bioinformatics studet and passionate about new developments in feild of web development related to bioinformatics. Mainly I am intrested in Building a user-friendly website that uses bioinformatics to help in diseases diagnosis.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm interested in learning python skill for **Bioinformatics**.
+- 🤔 I'm currently confused about how i can exel in python.
+- 🎯 My goal is to develop a website that use **Bioinformatics for Disease Diagnosis**.
+
+## What I'm Working On
+
+- 🚀 _Computing for BI Course_
+  
+## Favorite Hobby
+
+My favorite hobby is book reading. It helps me to gain knowledge.
+
+## Connect with Me 
+
+- [LinkedIn](https://www.linkedin.com/in/hadia-fatima-231704243/)
+
+
